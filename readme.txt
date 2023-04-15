@@ -1,0 +1,1 @@
+Any applications and files uploaded in this repository are belong to their original owners, I only uploaded them for documentation
